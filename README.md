@@ -4,5 +4,5 @@ Scripts used as part of the aforementioned project.
 This directory includes basic scripts, e.g., downloading fastqs from NCBI.
 ## RepAdapt
 This directory includes scripts and pipelines associated with the RepAdapt consortium. 
-## Analysis
+## Analyses
 This directory includes scripts and pipelines used in all downstream analyses.
