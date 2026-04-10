@@ -1,0 +1,13 @@
+# separate gatk3 conda/mamba env to avoid conflicts with picard in RepAdapt env
+
+name: gatk3.8
+
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+
+dependencies:
+  - gatk=3.8
+  - samtools=1.16.1
+  - openjdk=8
