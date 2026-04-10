@@ -1,0 +1,11 @@
+name: vcf
+
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - bcftools=1.16
+  - bedtools=2.27.1
+  - samtools=1.16.1
